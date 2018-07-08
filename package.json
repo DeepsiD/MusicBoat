@@ -1,0 +1,19 @@
+{
+  "name": "musicboat",
+  "version": "1.0.0",
+  "description": "Music bot by Deepsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepsi",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^1.4.3",
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "0.0.6",
+    "yt-search": "^0.1.4",
+    "ytdl-core": "^0.20.4"
+  }
+}
